@@ -2,6 +2,8 @@
 
 Trabalho prático individual da disciplina de Aprendizagem de Máquina.
 
+Link do Youtube: https://youtu.be/k6PaC0wSl3g
+
 ## Estrutura
 
 - `at1_am.ipynb` — notebook único com os três desafios resolvidos.
